@@ -163,7 +163,3 @@ Two loss functions are implemented and compared:
 - **Bayesian Personalized Ranking (BPR)**: Optimizes the ranking of positive items relative to negative items
 - **Binary Cross-Entropy (BCE)**: Treats recommendation as a binary classification problem
 
-
-## License
-
-This project is available under the MIT License.
